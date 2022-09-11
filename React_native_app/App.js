@@ -32,7 +32,7 @@ export default function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator screenOptions={{header: ()=> null}}>
-
+{/* 
         <Stack.Screen name='Login' component={LoginScreen}/>
         <Stack.Screen name='Registration' component={RegistrationScreen}/> 
         <Stack.Screen name='OTPScreen' component={OTPScreen}/>
@@ -42,7 +42,7 @@ export default function App() {
         <Stack.Screen name='TestContainer' component={TestContainer} />
         <Stack.Screen name='AnswerSheets' component={Answersheets} />
         <Stack.Screen name='UploadAnswerSheetScreen' component={UploadAnswerSheetScreen} />
-        
+         */}
 
         <Stack.Screen name='DashboardTest' component={DashboardTest }/>
 
