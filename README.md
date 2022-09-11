@@ -11,5 +11,5 @@ Our Constitution provides the right to free and compulsory education for childre
 
 ## Cover Image
 
-![Cover img](Akshar%20cover%20img.jpg)
+![Cover img](/assets/images/Akshar_cover_img.jpg)
 
